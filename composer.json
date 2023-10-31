@@ -1,0 +1,21 @@
+{
+    "name": "alicia/links-manager-dev",
+    "description": "evaluation",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "App\\Controllers\\": "app/controllers",
+            "App\\Config\\": "app/config",
+            "App\\Librairies\\": "app/librairies",
+            "App\\Models\\": "app/models"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alicia Bazin",
+            "email": "bazin.alicia88@gmail.com"
+        }
+    ],
+    "require": {}
+}
